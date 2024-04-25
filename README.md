@@ -9,7 +9,7 @@
  
  About databases i have a knowledge of PostgreSQL and MySQL.
 
- I’m currently trying to develope my knowledge of backend.
+ I’m currently trying to improve my knowledge of backend.
 
  🇧🇷
 <!--
